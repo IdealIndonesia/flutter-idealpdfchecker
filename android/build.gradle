@@ -48,5 +48,5 @@ android {
 
 dependencies {
     implementation 'com.tom-roush:pdfbox-android:2.0.27.0'
-    // implementation 'com.itextpdf.android:kernel-android:7.2.4'
+    implementation 'androidx.multidex:multidex:2.0.1'
 }
